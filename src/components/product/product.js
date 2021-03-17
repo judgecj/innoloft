@@ -230,7 +230,7 @@ class Products extends Component {
                       console.log("company data -------->", this.props.products.company .address.latitude )
                     }
                     <LoadScript
-                      googleMapsApiKey="AIzaSyDhW_zrOsstxlOayHOi4qC99GMrJ44F_zU"
+                      googleMapsApiKey="API KEY GOOGLE MAP"
                     >
                       <GoogleMap
                         mapContainerStyle={containerStyle}

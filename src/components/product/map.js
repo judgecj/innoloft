@@ -43,5 +43,5 @@ class MapData extends Component {
 
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyDhW_zrOsstxlOayHOi4qC99GMrJ44F_zU'
+    apiKey: 'API KEY GOOGLE MAP'
   })(Map);
